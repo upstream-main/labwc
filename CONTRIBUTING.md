@@ -446,7 +446,7 @@ generate their `MY_LOCALE.po` file in a few steps:
 contact and locale details in the header of the file. Then, add the
 translation strings under each English string.
 
-[See this tutorial for further guidance](https://www.labri.fr/perso/fleury/posts/programming/a-quick-gettext-tutorial.html)
+[See this tutorial for further guidance](https://web.archive.org/web/20260325002553/https://www.labri.fr/perso/fleury/posts/programming/a-quick-gettext-tutorial.html)
 
 ## Coders
 
